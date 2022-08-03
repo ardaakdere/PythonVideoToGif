@@ -13,4 +13,4 @@ videotogif = VideoToGif()
 videotogif.saveGif(video_name = 'video.MP4')
 
 
-print('İŞLEM TAMAM')
+print('DONE!')
